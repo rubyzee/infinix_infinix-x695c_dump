@@ -1,0 +1,13 @@
+# sys_tssi_64_infinix-user 11 RP1A.200720.011 210317 release-keys
+- manufacturer: 
+- platform: mt6785
+- codename: Infinix-X695C
+- flavor: sys_tssi_64_infinix-user
+- release: 11
+- id: RP1A.200720.011
+- incremental: 211217V531
+- tags: release-keys
+- fingerprint: Infinix/X695C-GL/Infinix-X695C:11/RP1A.200720.011/211217V320:user/release-keys
+- brand: Infinix
+- branch: sys_tssi_64_infinix-user-11-RP1A.200720.011-210317-release-keys
+- repo: infinix_infinix-x695c_dump

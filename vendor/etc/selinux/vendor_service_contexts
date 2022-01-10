@@ -1,0 +1,8 @@
+#line 1 "device/mediatek/sepolicy/custom/module/uxdetector/non_plat/service_contexts"
+uxdetector                              u:object_r:transsion_uxdetector_service:s0
+#line 1 "device/mediatek/sepolicy/custom/module/uxdetectorrest/non_plat/service_contexts"
+uxdetectorrest                              u:object_r:transsion_uxdetectorrest_service:s0
+#line 1 "system/sepolicy/reqd_mask/service_contexts"
+# empty service_contexts file - this file is used to generate an empty
+# non-platform service_context for devices without any service_contexts
+# customizations.

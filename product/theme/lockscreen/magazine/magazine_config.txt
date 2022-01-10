@@ -1,0 +1,15 @@
+﻿{
+	"magazine": [{
+			"path": "/product/theme/lockscreen/magazine/img/wallpaper01.webp",
+			"wid": "wallpaper01"
+		},
+		{
+			"path": "/product/theme/lockscreen/magazine/img/wallpaper05.webp",
+			"wid": "wallpaper05"
+		},
+		{
+			"path": "/product/theme/lockscreen/magazine/img/wallpaper08.webp",
+			"wid": "wallpaper08"
+		}
+	]
+}

@@ -1,0 +1,4 @@
+ on init
+     chown root system /sys/power/pnpmgr/ams/state
+     chmod 0664 /sys/power/pnpmgr/ams/state
+     setprop ro.vendor.pnpmgr.screen.ctl enable

@@ -1,0 +1,44 @@
+{
+  "version":1,
+  "mode":"on",
+  "whitelist": [
+    {
+        "app_name":"com.ss.android.ugc.trill",
+        "activity_name":"SplashActivity DetailActivity",
+        "video_view":"KeepSurfaceTextureView",
+        "skip_size":0.018
+    },
+    {
+        "app_name":"com.zhiliaoapp.musically",
+        "activity_name":"SplashActivity",
+        "video_view":"KeepSurfaceTextureView",
+        "skip_size":0.018
+    },
+    {
+        "app_name":"com.uc.vmate",
+        "activity_name":"VideoDetailActivity",
+        "video_view":"VideoTextureView",
+        "skip_size":0.018
+    },
+    {
+        "app_name":"video.like.lite",
+        "activity_name":"VideoDetailActivity",
+        "video_view":"TextureView",
+        "skip_size":0.018
+    },
+    {
+        "app_name":"video.like",
+        "activity_name":"VideoDetailActivityV2 MainActivity",
+        "video_view":"TextureView",
+        "skip_size":0.08
+    },
+    {
+        "app_name":"co.triller.droid",
+        "activity_name":"MainActivity",
+        "video_view":"TextureView",
+        "skip_size":0.15
+    }
+
+  ]
+
+}
